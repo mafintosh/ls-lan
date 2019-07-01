@@ -1,6 +1,6 @@
 {
   "name": "ls-lan",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "List all IPs on the local LAN",
   "main": "index.js",
   "dependencies": {},
