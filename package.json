@@ -1,0 +1,26 @@
+{
+  "name": "ls-lan",
+  "version": "0.0.0",
+  "description": "List all IPs on the local LAN",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/ls-lan.git"
+  },
+  "bin": {
+    "ls-lan": "./bin.js"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/ls-lan/issues"
+  },
+  "homepage": "https://github.com/mafintosh/ls-lan"
+}
