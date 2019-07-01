@@ -7,6 +7,6 @@ function ls (cb) {
     if (err) return cb(err)
 
     const lines = out.trim().split('\n')
-    console.log(lines)
+    cb(null, lines)
   })
 }
